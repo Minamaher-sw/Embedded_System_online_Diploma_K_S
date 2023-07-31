@@ -3,7 +3,7 @@
 	****   Author  : Mina Maher     ***
 	****   Data    : 30/7/2023      ***
 	****   Version : v1             ***
-	****   Brief   : C Program to Calculate Factorial of integer numbers ***
+	****   Brief   : C Program to Calculate summation ,division , product and subtraction ***
  ********************************************/
 
 /** Linking Section   */
